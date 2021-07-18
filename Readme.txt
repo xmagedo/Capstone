@@ -1,4 +1,4 @@
-#Data engineering project
+# Data engineering project
 
 The purpose of this data engineering capstone project is to give students a chance to combine what they've learned throughout the program. This project will be an important part of learners portfolio that will help to achieve data engineering-related career goals. We could choose to complete the project provided by the Udacity team or define the scope and data ourselves. I took the first approach in building the Data Lake on the data on immigration to the United States provided by Udacity.
 
